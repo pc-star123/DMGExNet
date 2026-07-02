@@ -10,7 +10,7 @@
 ### Dataset Preparation
 
 For the MIMIC-III dataset, the following files are required: 
-(Here, we do not share the dataset due to reasons of personal privacy, maintaining research standards, and legal considerations.)  Go to https://physionet.org/content/mimiciii/1.4/ to download the dataset .
+(Here, we do not share the dataset due to reasons of personal privacy, maintaining research standards, and legal considerations.)  Go to https://mimic.mit.edu/ to download the dataset.
 
 - MIMIC-III
   - PRESCRIPTIONS.csv
